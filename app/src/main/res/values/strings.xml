@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">动漫之家</string>
+    <string name="splash_subtitle">发现更多精彩动漫</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">首页</string>
+    <string name="nav_search">搜索</string>
+    <string name="nav_category">分类</string>
+    <string name="nav_my">我的</string>
+
+    <!-- Login/Register -->
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="login_subtitle">欢迎回来</string>
+    <string name="register_subtitle">创建新账号</string>
+    <string name="hint_username">请输入账号</string>
+    <string name="hint_password">请输入密码</string>
+    <string name="hint_nickname">请输入昵称</string>
+    <string name="no_account">还没有账号？</string>
+    <string name="register_now">立即注册</string>
+    <string name="has_account">已有账号？</string>
+    <string name="login_now">立即登录</string>
+
+    <!-- Home -->
+    <string name="hot_anime">热门动漫</string>
+    <string name="new_anime">最新动漫</string>
+    <string name="see_more">查看更多</string>
+    <string name="country_cn">国漫</string>
+    <string name="country_jp">日漫</string>
+    <string name="country_us">美漫</string>
+    <string name="country_kr">韩漫</string>
+
+    <!-- Search -->
+    <string name="search_hint">搜索动漫名称</string>
+    <string name="sort_heat">热度</string>
+    <string name="sort_rating">评分</string>
+    <string name="sort_new">最新</string>
+    <string name="search">搜索</string>
+
+    <!-- Category -->
+    <string name="category_by_type">按题材分类</string>
+    <string name="type_hot">热血</string>
+    <string name="type_love">恋爱</string>
+    <string name="type_comedy">搞笑</string>
+    <string name="type_sci_fi">科幻</string>
+    <string name="type_mystery">悬疑</string>
+    <string name="type_campus">校园</string>
+    <string name="type_adventure">冒险</string>
+
+    <!-- My Space -->
+    <string name="my_collect">我的收藏</string>
+    <string name="my_history">观看历史</string>
+    <string name="chat">聊天交流</string>
+    <string name="logout">退出登录</string>
+
+    <!-- Anime Detail -->
+    <string name="play_first">立即播放</string>
+    <string name="description">简介</string>
+    <string name="episodes">剧集列表</string>
+    <string name="anime_list">动漫列表</string>
+
+    <!-- Video Play -->
+    <string name="pre_episode">上一集</string>
+    <string name="next_episode">下一集</string>
+</resources>
